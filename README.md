@@ -1,14 +1,14 @@
-# Transfer4D: A framework for frugal motion capture and deformation transfer
+# Calibration Transfer via KD
 
-This is the repository that contains source code for the [Transfer4D website](https://transfer4D.github.io).
+This is the repository that contains source code for the [KD(C) website](https://github.com/rhebbalaguppe/CalibrationXferViaKD).
 
 If you find Transfer4D useful for your work please cite:
 ```
-@article{transfer4D
-  author    = {Maheshwari, Shubh and Narain, Rahul and Hebbalaguppe, Ramya},
-  title     = {Transfer4D: A framework for frugal motion capture and deformation transfer},
-  journal   = {CVPR},
-  year      = {2023},
+@article{kdc
+  author    = {Hebbalaguppe, Ramya and Mayank, Baranwal and Anand, Kartik and Arora, Chetan},
+  title     = {Calibration Transfer Via Knowledge Distillation},
+  journal   = {ACCV},
+  year      = {2024},
 }
 ```
 
